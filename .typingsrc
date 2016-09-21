@@ -1,0 +1,4 @@
+{
+  "proxy": "http://globalproxy.internal.rmplc.net:8080",
+  "https-proxy": "http://globalproxy.internal.rmplc.net:8080"
+}

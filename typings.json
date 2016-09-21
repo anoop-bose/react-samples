@@ -1,0 +1,19 @@
+{
+  "name": "01-sample",
+  "globalDependencies": {
+    "Q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#ddc0afa3149b24a0ff64fc80afd045cffdda3ecf",
+    "gulp": "github:DefinitelyTyped/DefinitelyTyped/gulp/gulp.d.ts#ddc0afa3149b24a0ff64fc80afd045cffdda3ecf",
+    "gulp-tslint": "github:DefinitelyTyped/DefinitelyTyped/gulp-tslint/gulp-tslint.d.ts#88c0d5f868bc184d70b6799d36b1946787beb48d",
+    "history": "github:DefinitelyTyped/DefinitelyTyped/react-router/history.d.ts#ddc0afa3149b24a0ff64fc80afd045cffdda3ecf",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#88c0d5f868bc184d70b6799d36b1946787beb48d",
+    "orchestrator": "github:DefinitelyTyped/DefinitelyTyped/orchestrator/orchestrator.d.ts#ddc0afa3149b24a0ff64fc80afd045cffdda3ecf",
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#ddc0afa3149b24a0ff64fc80afd045cffdda3ecf",
+    "react-dom": "github:DefinitelyTyped/DefinitelyTyped/react/react-dom.d.ts#ddc0afa3149b24a0ff64fc80afd045cffdda3ecf",
+    "react-router": "github:DefinitelyTyped/DefinitelyTyped/react-router/react-router.d.ts#ddc0afa3149b24a0ff64fc80afd045cffdda3ecf",
+    "vinyl": "github:DefinitelyTyped/DefinitelyTyped/vinyl/vinyl.d.ts#88c0d5f868bc184d70b6799d36b1946787beb48d"
+  },
+  "dependencies": {
+    "es6-promise": "registry:npm/es6-promise#3.0.0+20160723033700",
+    "flux": "registry:npm/flux#2.1.1+20160601175240"
+  }
+}
